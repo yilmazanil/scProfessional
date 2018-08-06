@@ -98,6 +98,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Views\Shared\DefaultMVCLayout.cshtml" />
+    <Content Include="Views\Components\AdditionalTextView.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
